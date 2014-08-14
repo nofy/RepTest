@@ -1,3 +1,3 @@
 <?php
-echo "Wister.com";
+echo "testfichier php";
 ?>
